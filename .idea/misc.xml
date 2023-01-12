@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TP1/client/pom.xml" />
+        <option value="$PROJECT_DIR$/TP1/wsSOAP/pom.xml" />
+        <option value="$PROJECT_DIR$/TP2/pom.xml" />
+        <option value="$PROJECT_DIR$/TP3/gatewayservice/pom.xml" />
+        <option value="$PROJECT_DIR$/TP3/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/TP3/customerservice/pom.xml" />
+        <option value="$PROJECT_DIR$/TP3/eureka-dicovery/pom.xml" />
+        <option value="$PROJECT_DIR$/TP3/inventoryservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

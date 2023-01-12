@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP2/TP2.iml" filepath="$PROJECT_DIR$/TP2/TP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Younes_Chkaifi_TPs-master.iml" filepath="$PROJECT_DIR$/.idea/Younes_Chkaifi_TPs-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/billing-service/billing-service.iml" filepath="$PROJECT_DIR$/TP3/billing-service/billing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/client/client.iml" filepath="$PROJECT_DIR$/TP1/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/customerservice/customerservice.iml" filepath="$PROJECT_DIR$/TP3/customerservice/customerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/eureka-dicovery/eureka-dicovery.iml" filepath="$PROJECT_DIR$/TP3/eureka-dicovery/eureka-dicovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/gatewayservice/gatewayservice.iml" filepath="$PROJECT_DIR$/TP3/gatewayservice/gatewayservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/inventoryservice/inventoryservice.iml" filepath="$PROJECT_DIR$/TP3/inventoryservice/inventoryservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/wsSOAP/wsSOAP.iml" filepath="$PROJECT_DIR$/TP1/wsSOAP/wsSOAP.iml" />
+    </modules>
+  </component>
+</project>
